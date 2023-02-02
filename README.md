@@ -8,6 +8,8 @@ You should preserve the original relative order of the nodes in each of the two 
 
 Example 1:
 
+![partition](https://user-images.githubusercontent.com/88260025/216387097-983c5169-6bb1-4231-9cec-b2049d0caed6.jpg)
+
 Input: head = [1,4,3,2,5,2], x = 3
 Output: [1,2,2,4,3,5]
 
